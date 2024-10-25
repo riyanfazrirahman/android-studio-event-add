@@ -1,17 +1,13 @@
-package com.dicoding.mynoteapps.ui.main
+package com.dicoding.myeventadd.ui.main
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.dicoding.mynoteapps.R
-import com.dicoding.mynoteapps.databinding.ActivityMainBinding
-import com.dicoding.mynoteapps.helper.ViewModelFactory
-import com.dicoding.mynoteapps.ui.insert.EventAddUpdateActivity
+import com.dicoding.myeventadd.databinding.ActivityMainBinding
+import com.dicoding.myeventadd.helper.ViewModelFactory
+import com.dicoding.myeventadd.ui.insert.EventAddUpdateActivity
 
 class MainActivity : AppCompatActivity() {
     private var _activityMainBinding: ActivityMainBinding? = null

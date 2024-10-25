@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dicoding.mynoteapps"
+    namespace = "com.dicoding.myeventadd"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dicoding.mynoteapps"
+        applicationId = "com.dicoding.myeventadd"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

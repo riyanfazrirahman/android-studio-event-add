@@ -1,21 +1,18 @@
-package com.dicoding.mynoteapps.ui.insert
+package com.dicoding.myeventadd.ui.insert
 
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
 import androidx.activity.OnBackPressedCallback
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
-import com.dicoding.mynoteapps.R
-import com.dicoding.mynoteapps.database.Event
-import com.dicoding.mynoteapps.databinding.ActivityEventAddUpdateBinding
-import com.dicoding.mynoteapps.helper.DateHelper
-import com.dicoding.mynoteapps.helper.ViewModelFactory
+import com.dicoding.myeventadd.R
+import com.dicoding.myeventadd.database.Event
+import com.dicoding.myeventadd.databinding.ActivityEventAddUpdateBinding
+import com.dicoding.myeventadd.helper.DateHelper
+import com.dicoding.myeventadd.helper.ViewModelFactory
 
 class EventAddUpdateActivity : AppCompatActivity() {
     companion object {

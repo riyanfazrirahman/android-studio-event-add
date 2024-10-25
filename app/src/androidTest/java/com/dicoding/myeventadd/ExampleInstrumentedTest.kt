@@ -1,4 +1,4 @@
-package com.dicoding.mynoteapps
+package com.dicoding.myeventadd
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

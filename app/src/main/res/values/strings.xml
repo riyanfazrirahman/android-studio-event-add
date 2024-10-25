@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyNoteApps</string>
+    <string name="app_name">MyEventAdd</string>
 
     <string name="title">Judul</string>
     <string name="description">Deskripsi</string>

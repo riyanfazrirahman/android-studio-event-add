@@ -1,4 +1,4 @@
-package com.dicoding.mynoteapps
+package com.dicoding.myeventadd
 
 import org.junit.Test
 

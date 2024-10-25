@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyNoteApps"
+rootProject.name = "MyEventAdd"
 include(":app")
